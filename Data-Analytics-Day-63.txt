@@ -1,0 +1,56 @@
+ AI & Business Intelligence in Analytics
+
+🔹 Lesson 1: AI-Powered Analytics
+=====================================
+Summary:
+AI enhances analytics by automating insights, anomaly detection, and predictions.
+Natural Language Queries in BI tools
+Automated pattern recognition
+Personalized dashboards
+
+Example: Power BI with Copilot generates insights directly from raw data.
+
+
+🔹 Lesson 2: Transformers in Analytics
+=======================================
+Summary:
+Transformers are deep learning models originally built for NLP, now used in BI and forecasting.
+Attention mechanism for feature importance
+Time-series forecasting applications
+Text-to-insight automation
+
+Example: Using transformers to summarize customer feedback across millions of reviews.
+
+
+🔹 Lesson 3: Model Interpretability (SHAP & LIME)
+====================================================
+Summary:
+Transparency in models is critical. Tools like SHAP & LIME explain “why” a model predicted something.
+SHAP → contribution of each feature
+LIME → local model interpretability
+
+Example: In credit scoring, SHAP shows income and repayment history drive most predictions.
+
+
+🔹 Lesson 4: Ethics in AI & Analytics
+==========================================
+Summary:
+AI must be used responsibly.
+Avoid bias in data collection
+Ensure fairness in model outcomes
+Maintain privacy and transparency
+
+Example: A hiring model was retrained to remove gender bias from selection outcomes.
+
+
+🔹 Lesson 5: Case Study – Business Intelligence with AI
+=======================================================
+Summary:
+Steps:
+------
+Connect enterprise data to BI tools
+Apply transformers for NLP-based queries
+Use SHAP to explain predictions
+Build ethical dashboards for leadership
+Example: A retail company saved $5M yearly by using AI-powered BI for inventory forecasting.
+
